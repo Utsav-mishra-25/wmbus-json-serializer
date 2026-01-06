@@ -20,7 +20,7 @@ Embedded-friendly C library for serializing structured meter data into predefine
 # Building
 bash
 # Clone repository
-git clone https://github.com/[username]/wmbus-json-serializer.git
+git clone https://github.com/Utsav-mishra-25/wmbus-json-serializer.git
 cd wmbus-json-serializer
 
 # Build
